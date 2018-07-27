@@ -1,0 +1,235 @@
+[26-Apr-2017 01:33:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 33
+[26-Apr-2017 01:33:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 35
+[26-Apr-2017 01:50:54 UTC] PHP Fatal error:  Call to undefined function createaccount() in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 56
+[26-Apr-2017 02:20:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 50
+[26-Apr-2017 02:20:45 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 7
+[26-Apr-2017 02:21:15 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 7
+[26-Apr-2017 02:22:29 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 7
+[26-Apr-2017 02:22:35 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 7
+[26-Apr-2017 02:22:38 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 7
+[26-Apr-2017 02:23:56 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:26:33 UTC] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 123
+[26-Apr-2017 02:27:03 UTC] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 124
+[26-Apr-2017 02:27:06 UTC] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 124
+[26-Apr-2017 02:27:12 UTC] PHP Fatal error:  Call to a member function MoveNext() on a non-object in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 124
+[26-Apr-2017 02:27:35 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:27:44 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:27:54 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:28:00 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:39:22 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aalibrac/public_html/cosc3339/search_select_listing.php on line 62
+[26-Apr-2017 02:42:07 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:43:24 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:43:30 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:44:00 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 360
+[26-Apr-2017 02:44:36 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:44:40 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:44:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 361
+[26-Apr-2017 02:44:55 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 361
+[26-Apr-2017 02:45:19 UTC] PHP Fatal error:  Call to undefined function numofmessages() in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 20
+[26-Apr-2017 02:45:30 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:45:37 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:48:05 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:48:17 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:48:36 UTC] PHP Fatal error:  Call to undefined function numofmessages() in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 19
+[26-Apr-2017 02:48:37 UTC] PHP Fatal error:  Call to undefined function numofmessages() in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 19
+[26-Apr-2017 02:49:43 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:49:49 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:56:15 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:56:18 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 02:56:51 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:58:58 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:59:01 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:59:04 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:59:28 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 02:59:34 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 03:00:21 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 03:02:04 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 03:02:26 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 03:02:45 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 8
+[26-Apr-2017 03:03:36 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 03:03:52 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 9
+[26-Apr-2017 03:04:26 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 10
+[26-Apr-2017 03:11:33 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:11:46 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:12:26 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:12:57 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132907008 bytes) in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 153
+[26-Apr-2017 03:13:01 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132907008 bytes) in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 153
+[26-Apr-2017 03:13:18 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:13:43 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:17:39 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:17:55 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:19:00 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:19:15 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 11
+[26-Apr-2017 03:20:34 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 148
+[26-Apr-2017 03:22:22 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 27
+[26-Apr-2017 03:22:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 133955584 bytes) in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 45
+[26-Apr-2017 03:23:59 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:24:11 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:25:09 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:25:11 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:25:18 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:26:42 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:26:48 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:26:54 UTC] PHP Warning:  Unterminated comment starting line 141 in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 141
+[26-Apr-2017 03:26:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 327
+[26-Apr-2017 03:27:26 UTC] PHP Warning:  Unterminated comment starting line 142 in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 142
+[26-Apr-2017 03:27:26 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 328
+[26-Apr-2017 03:27:31 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:27:41 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 14
+[26-Apr-2017 03:27:53 UTC] PHP Warning:  Unterminated comment starting line 143 in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 143
+[26-Apr-2017 03:27:53 UTC] PHP Fatal error:  Call to undefined function numofmessages() in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 20
+[26-Apr-2017 03:28:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 132907008 bytes) in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 153
+[26-Apr-2017 03:36:04 UTC] PHP Parse error:  syntax error, unexpected ':' in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 22
+[26-Apr-2017 03:54:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 16
+[26-Apr-2017 03:58:34 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 26
+[26-Apr-2017 04:00:22 UTC] PHP Parse error:  syntax error, unexpected ';' in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 31
+[26-Apr-2017 04:10:44 UTC] PHP Parse error:  syntax error, unexpected '" <a href='http://aalibra.crea' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/aalibrac/public_html/cosc3339/publicCustomer.php on line 30
+[27-Apr-2017 00:11:47 UTC] PHP Fatal error:  Call to undefined function uploadimage() in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 33
+[27-Apr-2017 01:22:43 UTC] PHP Fatal error:  Call to undefined function getcustomer() in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28
+[27-Apr-2017 01:26:30 UTC] PHP Fatal error:  Call to a member function debug() on a non-object in /home/aalibrac/public_html/cosc3339/send.php on line 169
+[27-Apr-2017 01:26:50 UTC] PHP Fatal error:  Call to undefined function getcustomer() in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28
+[27-Apr-2017 01:26:51 UTC] PHP Fatal error:  Call to undefined method ADORecordSet_mysqli::debug() in /home/aalibrac/public_html/cosc3339/send.php on line 169
+[27-Apr-2017 01:30:22 UTC] PHP Fatal error:  Call to undefined function getCustomer() in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28
+[27-Apr-2017 01:31:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:31:21 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  Missing argument 1 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  Missing argument 2 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  Missing argument 3 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  Missing argument 4 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  Missing argument 5 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  Missing argument 6 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  Missing argument 7 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  Missing argument 8 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:33:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  Missing argument 1 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  Missing argument 2 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  Missing argument 3 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  Missing argument 4 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  Missing argument 5 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  Missing argument 6 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  Missing argument 7 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  Missing argument 8 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:33:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  Missing argument 1 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  Missing argument 2 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  Missing argument 3 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  Missing argument 4 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  Missing argument 5 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  Missing argument 6 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  Missing argument 7 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  Missing argument 8 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:34:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:35:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:35:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:37:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 46
+[27-Apr-2017 01:37:15 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 48
+[27-Apr-2017 01:43:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:43:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:44:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:44:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:44:59 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 60
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  Missing argument 1 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  Missing argument 2 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  Missing argument 3 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  Missing argument 4 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  Missing argument 5 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  Missing argument 6 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  Missing argument 7 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  Missing argument 8 for getCustomer(), called in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 28 and defined in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 34
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:50:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 60
+[27-Apr-2017 01:53:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 01:53:40 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 41
+[27-Apr-2017 01:53:40 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 60
+[27-Apr-2017 02:07:17 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 55
+[27-Apr-2017 02:07:49 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 55
+[27-Apr-2017 02:08:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 55
+[27-Apr-2017 02:08:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 55
+[27-Apr-2017 02:08:28 UTC] PHP Fatal error:  Call to undefined function printloginform() in /home/aalibrac/public_html/cosc3339/sitterlogin.php on line 75
+[27-Apr-2017 02:08:36 UTC] PHP Warning:  mysqli_query() expects at least 2 parameters, 1 given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 55
+[27-Apr-2017 02:09:16 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 55
+[27-Apr-2017 02:09:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 55
+[27-Apr-2017 02:10:05 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 55
+[27-Apr-2017 02:11:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 37
+[27-Apr-2017 02:11:42 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 02:13:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 37
+[27-Apr-2017 02:13:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 39
+[27-Apr-2017 02:23:29 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 178
+[27-Apr-2017 02:31:28 UTC] PHP Parse error:  syntax error, unexpected ''";' (T_CONSTANT_ENCAPSED_STRING) in /home/aalibrac/public_html/cosc3339/ReadMessage.php on line 171
+[27-Apr-2017 02:47:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 43
+[27-Apr-2017 02:47:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 45
+[27-Apr-2017 02:48:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 43
+[27-Apr-2017 02:48:39 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, object given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 45
+[27-Apr-2017 02:50:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 44
+[27-Apr-2017 02:50:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 46
+[27-Apr-2017 02:52:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 44
+[27-Apr-2017 02:52:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 46
+[27-Apr-2017 03:57:10 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 77
+[27-Apr-2017 03:57:20 UTC] PHP Warning:  Missing argument 1 for printUserInfo(), called in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 17 and defined in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 20
+[27-Apr-2017 04:59:19 UTC] PHP Fatal error:  Call to undefined function customerLogin() in /home/aalibrac/public_html/cosc3339/customerLogin.php on line 15
+[27-Apr-2017 04:59:53 UTC] PHP Fatal error:  Call to undefined function printUserInfo() in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 17
+[27-Apr-2017 05:00:01 UTC] PHP Fatal error:  Call to undefined function printUserInfo() in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 17
+[27-Apr-2017 05:00:05 UTC] PHP Fatal error:  Call to undefined function printUserInfo() in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 17
+[27-Apr-2017 05:00:06 UTC] PHP Fatal error:  Call to undefined function printUserInfo() in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 17
+[27-Apr-2017 05:24:05 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/customerLogin.php on line 82
+[27-Apr-2017 05:36:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 42
+[27-Apr-2017 05:36:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 44
+[27-Apr-2017 05:37:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 50
+[27-Apr-2017 05:37:35 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/createCustomer.php on line 52
+[27-Apr-2017 05:46:16 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 25
+[27-Apr-2017 05:46:18 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 25
+[27-Apr-2017 05:46:21 UTC] PHP Fatal error:  Call to a member function Execute() on a non-object in /home/aalibrac/public_html/cosc3339/customerHomepage.php on line 25
+[27-Apr-2017 06:10:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 44
+[27-Apr-2017 06:10:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 46
+[27-Apr-2017 06:10:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 48
+[27-Apr-2017 06:10:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 50
+[27-Apr-2017 06:10:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 52
+[27-Apr-2017 06:10:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 54
+[27-Apr-2017 06:11:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 47
+[27-Apr-2017 06:11:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 49
+[27-Apr-2017 06:11:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 51
+[27-Apr-2017 06:11:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 53
+[27-Apr-2017 06:11:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 55
+[27-Apr-2017 06:11:55 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 57
+[27-Apr-2017 06:11:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 47
+[27-Apr-2017 06:11:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 49
+[27-Apr-2017 06:11:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 51
+[27-Apr-2017 06:11:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 53
+[27-Apr-2017 06:11:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 55
+[27-Apr-2017 06:11:58 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 57
+[27-Apr-2017 06:12:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 47
+[27-Apr-2017 06:12:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 49
+[27-Apr-2017 06:12:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 51
+[27-Apr-2017 06:12:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 53
+[27-Apr-2017 06:12:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 55
+[27-Apr-2017 06:12:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 57
+[27-Apr-2017 06:15:01 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 69
+[27-Apr-2017 06:15:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 48
+[27-Apr-2017 06:15:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 50
+[27-Apr-2017 06:15:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 52
+[27-Apr-2017 06:15:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 54
+[27-Apr-2017 06:15:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 56
+[27-Apr-2017 06:15:46 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 58
+[27-Apr-2017 06:16:41 UTC] PHP Warning:  Missing argument 2 for updateCustomer(), called in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 16 and defined in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 19
+[27-Apr-2017 06:16:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 48
+[27-Apr-2017 06:16:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 50
+[27-Apr-2017 06:16:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 52
+[27-Apr-2017 06:16:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 54
+[27-Apr-2017 06:16:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 56
+[27-Apr-2017 06:16:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/aalibrac/public_html/cosc3339/updateCustomer.php on line 58
+[27-Apr-2017 16:57:24 UTC] PHP Fatal error:  Call to undefined function printloginform() in /home/aalibrac/public_html/cosc3339/sitterlogin.php on line 75
+[27-Apr-2017 17:06:15 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS) in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 128
+[27-Apr-2017 17:07:12 UTC] PHP Parse error:  syntax error, unexpected 'the' (T_STRING), expecting '(' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 157
+[27-Apr-2017 17:07:51 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 161
+[27-Apr-2017 17:08:27 UTC] PHP Parse error:  syntax error, unexpected '/' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 161
+[27-Apr-2017 17:08:35 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 95
+[27-Apr-2017 17:08:44 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 95
+[27-Apr-2017 17:08:46 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 95
+[27-Apr-2017 17:08:57 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 95
+[27-Apr-2017 17:09:03 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 95
+[27-Apr-2017 17:09:39 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 95
+[27-Apr-2017 17:09:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/aalibrac/public_html/cosc3339/SitterHomepage.php on line 132

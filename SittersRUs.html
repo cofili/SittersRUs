@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Sitters R Us</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+
+<style>
+.jumbotron { 
+    background-color: #5A7CC2; /* Blue */
+    color: #ffffff;
+}
+
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.logo {
+    font-size: 200px;
+}
+@media screen and (max-width: 768px) {
+    .col-sm-4 {
+        text-align: center;
+        margin: 25px 0;
+    }
+}
+
+<!-- Navigation bar -->
+
+</style>
+
+<nav class="navbar navbar-default navbar-fixed-top">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span> 
+      </button>
+      <!-- <a class="navbar-brand" img src="/SoftwareEng1/sittersrus.png"></a> -->
+      <img src="/SoftwareEng1/sittersrus.png" alt="Sitters R Us logo" width="60" height="44">
+    </div>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="#about">ABOUT</a></li>
+        <li><a href="#services">SERVICES</a></li>
+        <li><a href="./Sittercreateprofile.php">Sitter SIGN UP</a></li>
+        <li><a href="./createCustomer.php"> Customer SIGN UP</a></li>
+        
+      </ul>
+    </div>
+  </div>
+</nav>
+
+
+<body>
+<div class="jumbotron text-center">
+<h1>Sitters R Us</h1> 
+<p>We provide the perfect platform for pet owners and sitters to interact!</p> 
+</div>
+
+<div class=".bg grey text-center">
+  <h2>Are you a Customer? </h2>
+  <h4>Customers are pet owners who need sitters to tend to their beloved animals while they are away. </h4> 
+
+  <!-- <button class= btn <a href="/SoftwareEng1/login.html"> LOGIN</button> -->
+  <a href="../cosc3339/customerLogin.php" class="w3-btn w3-black">CUSTOMER LOGIN</a>
+</div>
+
+<div class=".bg grey text-center">
+  <h2>Are you a Sitter? </h2>
+  <h4>Pet sitting requires caring for a pet in its own home while the owner is away, providing care and exercise for an agreed period of time. Caring for pets in the clients’ homes is what separates pet sitters from boarders or doggie daycares.</h4> 
+ 
+  <!-- <button class="btn btn-default btn-lg">LOGIN</button> -->
+  <a href="../cosc3339/sitterlogin.php" class="w3-btn w3-black">SITTER LOGIN</a>
+</div>
+
+<div class=".bg grey text-center">
+  <h2>Our Values</h2>
+  <h4><strong>MISSION:</strong> Our Roadmap starts with our mission, which is enduring. It declares our purpose as a company and serves as the standard against which we weigh our actions and decisions. We aim to refresh the world, inspire moments of optimism and happiness and to create value and make a difference.</h4> 
+  
+  <h4><strong>VISION:</strong> Our vision serves as the framework for our Roadmap and guides every aspect of our business by describing what we need to accomplish in order to continue achieving sustainable, quality growth. We aim to be the world's No. 1 pet care site, providing optimum quality and efficiency. </h4>
+</div>
+
+</body>
+
+</html>
